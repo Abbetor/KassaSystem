@@ -1,0 +1,4 @@
+KAF1;Bryggkaffe;32.00;Medium
+KAF2;Cappuccino;42.00;Medium
+MUG1;Termosmugg;199.00;High
+TID1;Dagens tidning;35.00;Low
